@@ -1,0 +1,1 @@
+import { input, print } from './bitcamp/lib.js';
